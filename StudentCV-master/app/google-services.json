@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512508857495",
+    "project_id": "studentcv-8bc20",
+    "storage_bucket": "studentcv-8bc20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512508857495:android:ce7792c81127eaf5a4add2",
+        "android_client_info": {
+          "package_name": "com.example.studentcv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrgCQ90xi5RR7KBn-4DTEDRxAOPL8x2fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

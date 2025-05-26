@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- South African Provinces -->
+    <string-array name="provinces">
+        <item>Gauteng</item>
+        <item>Western Cape</item>
+        <item>KwaZulu-Natal</item>
+        <item>Eastern Cape</item>
+        <item>Limpopo</item>
+        <item>Mpumalanga</item>
+        <item>Free State</item>
+        <item>North West</item>
+        <item>Northern Cape</item>
+    </string-array>
+
+    <!-- Qualification Levels -->
+    <string-array name="qualification_levels">
+        <item>Matric</item>
+        <item>Certificate</item>
+        <item>Diploma</item>
+        <item>Bachelors Degree</item>
+        <item>Honours Degree</item>
+        <item>Masters Degree</item>
+        <item>Doctorate</item>
+    </string-array>
+
+    <!-- Business Qualifications -->
+    <string-array name="business_qualifications">
+        <item>Certificate in Business Administration</item>
+        <item>Diploma in Accounting</item>
+        <item>Bachelor of Commerce (BCom)</item>
+        <item>Master of Business Administration (MBA)</item>
+    </string-array>
+
+    <!-- Engineering Qualifications -->
+    <string-array name="engineering_qualifications">
+        <item>Certificate in Civil Engineering</item>
+        <item>Diploma in Electrical Engineering</item>
+        <item>Bachelor of Engineering (BEng)</item>
+        <item>Master of Engineering (MEng)</item>
+    </string-array>
+
+    <!-- Health Qualifications -->
+    <string-array name="health_qualifications">
+        <item>Diploma in Nursing</item>
+        <item>Bachelor of Medicine and Surgery (MBChB)</item>
+        <item>Bachelor of Pharmacy</item>
+        <item>Master of Public Health (MPH)</item>
+    </string-array>
+
+    <!-- IT & Technology Qualifications -->
+    <string-array name="it_qualifications">
+        <item>Certificate in IT Support</item>
+        <item>Diploma in Software Development</item>
+        <item>Bachelor of Computer Science (BSc)</item>
+        <item>Master of Data Science</item>
+    </string-array>
+
+    <!-- Industries -->
+    <string-array name="industries">
+        <item>Technology</item>
+        <item>Engineering</item>
+        <item>Health</item>
+        <item>Finance</item>
+        <item>Education</item>
+        <item>Retail</item>
+        <item>Construction</item>
+        <item>Agriculture</item>
+        <item>Manufacturing</item>
+        <item>Hospitality and  Tourism</item>
+        <item>Media and Communication</item>
+    </string-array>
+
+    <!-- Job Responsibilities -->
+    <string-array name="job_responsibilities">
+        <item>Customer Service</item>
+        <item>Software Development</item>
+        <item>Project Management</item>
+        <item>Data Analysis</item>
+        <item>Sales and Marketing</item>
+        <item>Teaching and Training</item>
+        <item>Financial Auditing</item>
+        <item>Nursing and Patient Care</item>
+        <item>Content Creation</item>
+        <item>Administrative Support</item>
+    </string-array>
+
+    <!-- Skills -->
+    <string-array name="skills">
+        <!-- Technology -->
+        <item>Java Programming</item>
+        <item>Python Programming</item>
+        <item>Web Development (HTML, CSS, JavaScript)</item>
+        <item>Data Analysis (Excel, SQL, Power BI)</item>
+        <item>Cloud Computing (AWS, Azure, Google Cloud)</item>
+        <!-- Business -->
+        <item>Communication Skills</item>
+        <item>Leadership</item>
+        <item>Strategic Planning</item>
+        <item>Financial Analysis</item>
+        <item>Negotiation</item>
+        <!-- Engineering -->
+        <item>CAD Design</item>
+        <item>Project Management (Primavera, MS Project)</item>
+        <item>Construction Supervision</item>
+        <item>Electrical Circuit Design</item>
+        <!-- Health -->
+        <item>Patient Care</item>
+        <item>Surgical Assistance</item>
+        <item>Pharmacy Dispensing</item>
+        <item>Emergency Response</item>
+        <!-- Education -->
+        <item>Curriculum Development</item>
+        <item>Classroom Management</item>
+        <item>Online Teaching Tools (Google Classroom, Moodle)</item>
+        <!-- Soft Skills -->
+        <item>Time Management</item>
+        <item>Problem Solving</item>
+        <item>Teamwork</item>
+        <item>Critical Thinking</item>
+        <item>Adaptability</item>
+    </string-array>
+
+    <!-- Certifications -->
+    <string-array name="certifications">
+        <item>Professional Certificate in Project Management (PMP)</item>
+        <item>Microsoft Certified: Azure Fundamentals</item>
+        <item>Cisco Certified Network Associate (CCNA)</item>
+        <item>Certified Financial Planner (CFP)</item>
+        <item>First Aid Certification</item>
+        <item>TEFL (Teaching English as a Foreign Language)</item>
+        <item>Scrum Master Certification (CSM)</item>
+        <item>Occupational Health and Safety (OHS)</item>
+    </string-array>
+
+    <!-- Languages -->
+    <string-array name="languages">
+        <item>English</item>
+        <item>Afrikaans</item>
+        <item>isiZulu</item>
+        <item>isiXhosa</item>
+        <item>Sesotho</item>
+        <item>Setswana</item>
+        <item>Xitsonga</item>
+        <item>siSwati</item>
+        <item>Tshivenda</item>
+        <item>Ndebele</item>
+    </string-array>
+
+    <!-- Interests -->
+    <string-array name="interests">
+        <item>Sports</item>
+        <item>Reading</item>
+        <item>Traveling</item>
+        <item>Gaming</item>
+        <item>Art and Design</item>
+        <item>Volunteering</item>
+        <item>Public Speaking</item>
+    </string-array>
+</resources>

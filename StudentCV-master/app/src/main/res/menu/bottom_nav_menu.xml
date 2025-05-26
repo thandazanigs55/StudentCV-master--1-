@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- CV (Visible for Students) -->
+
+
+    <!-- Jobs (Default for All) -->
+
+
+    <!-- Manage Jobs (Visible for Recruiters) -->
+
+
+    <!-- Profile (Visible for All) -->
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile" />
+
+    <!-- Logout (Always Visible) -->
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Logout" />
+</menu>

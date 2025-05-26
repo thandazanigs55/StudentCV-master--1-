@@ -1,0 +1,24 @@
+<resources>
+    <string-array name="job_types">
+        <item>Full-Time</item>
+        <item>Part-Time</item>
+        <item>Contract</item>
+        <item>Internship</item>
+        <item>Freelance</item>
+    </string-array>
+
+    <string-array name="job_locations">
+        <item>Remote</item>
+        <item>On-Site</item>
+        <item>Hybrid</item>
+        <item>Durban</item>
+        <item>Pretoria</item>
+        <item>Cape Town</item>
+    </string-array>
+
+    <string-array name="job_filter_options">
+        <item>All Jobs</item>
+        <item>Applied Jobs</item>
+        <item>Not Applied Jobs</item>
+    </string-array>
+</resources>
